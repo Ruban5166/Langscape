@@ -13,4 +13,4 @@ while row>0:
         col= col+1
     print()
     row = row-1    
-    col = col-1
+ 
