@@ -1,12 +1,12 @@
-row = 5
-col = 1
-while col<=row: #col 1 row 4
-    col = 1
-    while col<=row:
-        print(col,end = ' ')
-        col = col + 1
-    row = row-1   #4  
-    print()
+# row = 5
+# col = 1
+# while col<=row: #col 6 row 4
+    # col = 1
+    # while col<=row:
+        # print(col,end = ' ')
+        # col = col + 1
+    # row = row-1   #4  
+    # print()
       
       
       
