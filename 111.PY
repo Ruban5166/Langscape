@@ -27,3 +27,7 @@ ll =[l,l2]
 print(len(ll))
 print(ll)
 print(ll[0])
+
+
+for x in ll:
+    print(x)
